@@ -1,0 +1,24 @@
+{
+  "name": "moralis-block-data",
+  "version": "1.0.0",
+  "description": "Use [Moralis](https://docs.moralis.io/)",
+  "main": "BlockData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmelotik/moralis-token-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmelotik/moralis-token-data/issues"
+  },
+  "homepage": "https://github.com/dmelotik/moralis-token-data#readme",
+  "dependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "moralis": "^1.3.2",
+    "typescript": "^4.5.5"
+  }
+}
